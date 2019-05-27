@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Admin\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Test Task TTKG v.1.-1556200562.00" t="ExcludeRecursive" />
+    <e p="D:\Vova\2019\Tests\Ejaw\Test Task TTKG v.1" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="ConnectController.cs" t="Include" />
+          <e p="LightController.cs" t="Include" />
+          <e p="SoundController.cs" t="Include" />
+          <e p="SpawnedObject.cs" t="Include" />
+          <e p="SpawnGO.cs" t="Include" />
+          <e p="UIManager.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Test Task TTKG v.1.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
